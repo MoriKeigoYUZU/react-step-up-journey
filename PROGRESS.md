@@ -9,9 +9,9 @@
 ## 現在地
 
 ```yaml
-current_chapter: 1
+current_chapter: 2
 current_exercise: null
-last_updated: null
+last_updated: 2026-03-05
 ```
 
 ## ユーザーメモ
@@ -24,10 +24,10 @@ last_updated: null
 
 ## PART 1: 土台をつくる
 
-### Chapter 01: JSXの基本 `status: not_started`
-- [ ] 01-first-jsx（はじめてのJSX）
-- [ ] 02-jsx-expressions（JSXの中で式を使う）
-- [ ] 03-jsx-rules（JSXのルール）
+### Chapter 01: JSXの基本 `status: completed`
+- [x] 01-first-jsx（はじめてのJSX）
+- [x] 02-jsx-expressions（JSXの中で式を使う）
+- [x] 03-jsx-rules（JSXのルール）
 
 ### Chapter 02: コンポーネントとProps `status: not_started`
 - [ ] 01-basic-props（Propsの基本）

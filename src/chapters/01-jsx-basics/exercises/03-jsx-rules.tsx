@@ -8,5 +8,11 @@
 // ヒント: JSXでは class ではなく className を使う
 // ヒント: <img> は自己閉じタグ <img /> にする
 export function ProfileCard() {
-  return null;
+  return (
+    <div className="profile-card">
+      <img alt="プロフィール画像" src="https://via.placeholder.com/150" />
+      <h2>山田太郎</h2>
+      <p>Reactを勉強中です</p>
+    </div>
+  );
 }

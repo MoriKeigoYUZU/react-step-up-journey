@@ -5,7 +5,7 @@
 ## 進め方
 
 1. 各チャプターの `README.md` を読んでコンセプトを理解する
-2. `__tests__/` のテストファイルを読む（これが「仕様書」）
+2. `exercises/` のファイルのTODOコメントを確認する（これが「仕様」）
 3. `exercises/` のファイルに実装を書く
 4. `npm run test:chapter -- src/chapters/XX-xxx/` でテストを実行
 5. 全テストが緑になったら、Claudeと「なぜ動くのか」を議論する
