@@ -4,5 +4,5 @@ type ButtonProps = {
 
 // TODO: label を受け取ってボタンとして表示するコンポーネントを作ろう
 export function Button(_props: ButtonProps) {
-  return null;
+  return <button>{_props.label}</button>;
 }

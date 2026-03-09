@@ -9,7 +9,7 @@
 ## 現在地
 
 ```yaml
-current_chapter: 2
+current_chapter: 3
 current_exercise: null
 last_updated: 2026-03-05
 ```
@@ -29,10 +29,10 @@ last_updated: 2026-03-05
 - [x] 02-jsx-expressions（JSXの中で式を使う）
 - [x] 03-jsx-rules（JSXのルール）
 
-### Chapter 02: コンポーネントとProps `status: not_started`
-- [ ] 01-basic-props（Propsの基本）
-- [ ] 02-multiple-props（複数のProps）
-- [ ] 03-component-composition（コンポーネントの組み合わせ）
+### Chapter 02: コンポーネントとProps `status: completed`
+- [x] 01-basic-props（Propsの基本）
+- [x] 02-multiple-props（複数のProps）
+- [x] 03-component-composition（コンポーネントの組み合わせ）
 
 ### Chapter 03: 条件分岐とリスト `status: not_started`
 - [ ] 01-conditional-rendering（条件分岐レンダリング）
